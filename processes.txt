@@ -1,0 +1,4 @@
+Mouse 3 1
+Paint 2 2
+NN 15 0
+Word 8 4
