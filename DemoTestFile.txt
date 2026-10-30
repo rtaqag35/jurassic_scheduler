@@ -1,0 +1,4 @@
+Chase people			1	6
+Eat car				2	4
+Throw Car off Cliff		3	4
+Investigate Kitchen		4	3
